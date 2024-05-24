@@ -1,7 +1,5 @@
 import random
 
-
-
 def randint(start, end):
     response = "y"
     while response=="y":
